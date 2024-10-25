@@ -8,7 +8,7 @@ Este projeto apresenta uma calculadora de Índice de Massa Corporal (IMC) com de
 
 - **HTML**: Estruturação da página.
 - **CSS**: Estilos e responsividade, incluindo mudanças de cor baseadas no resultado do IMC.
-- **JavaScript**: Lógica de cálculo do IMC e manipulação do DOM para exibir resultados dinâmicos.
+- **JavaScript**: Lógica de cálculo do IMC.
 
 ## 🚀 Como Executar o Projeto Localmente
 
